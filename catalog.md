@@ -8,6 +8,8 @@
 
 [File Manipulation](File_Manipulation)
 
-[Text Editor](Text Editor)
+[Text Editor](Text_Editor)
 
 [Wildcards](Wildcards)
+
+[Permissions](Permissions)

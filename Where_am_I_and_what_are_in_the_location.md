@@ -35,8 +35,8 @@ drwxrwxr-x 3 ytq ytq 4096 5月   2  2022 PycharmProjects
 drwx------ 3 ytq ytq 4096 4月  16  2022 snap
 ```
 
-* First character indicates whether it is a normal file *(-)* or directory *(d)*
-* Next 9 characters are *permissions* for the file or directory
+* **First character** indicates whether it is a normal file *(-)* or directory *(d)*
+* **Next 9 characters** are *permissions* for the file or directory
 * The next field is the number of blocks
 * The next field is the owner of the file or directory
 * The next field is the group the file or directory belongs to
