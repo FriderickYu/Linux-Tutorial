@@ -13,3 +13,11 @@
 [Wildcards](Wildcards)
 
 [Permissions](Permissions)
+
+[Filter](Filter)
+
+[Regular Expressions](Regular Expressions.md)
+
+[Pipling and Redirection](Pipling_and_Redirection.md)
+
+[Process Management](Process_Management.md)
